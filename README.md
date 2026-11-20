@@ -205,4 +205,4 @@ powershell -ExecutionPolicy Bypass -File .\rebuild.ps1
 
 ## 许可证
 
-自用工具，按需使用。
+自用工具，按需使用，shiyadongjob@163.com。
