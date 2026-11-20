@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "autostart": false,
+    "fence_alpha": 146,
+    "icon_size": 48
+  },
+  "all_visible": true,
+  "fences": [
+    {
+      "id": "6fec74a6",
+      "name": "默认格子",
+      "color": "#191c22",
+      "frame": "简约描边",
+      "sort": "manual",
+      "view": "icon",
+      "locked": false,
+      "x": 120,
+      "y": 120,
+      "w": 360,
+      "h": 300,
+      "collapsed": false,
+      "items": []
+    }
+  ],
+  "notes": []
+}
